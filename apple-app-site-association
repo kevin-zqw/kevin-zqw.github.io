@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "HZAWRKK872.com.intlgame.sample",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
